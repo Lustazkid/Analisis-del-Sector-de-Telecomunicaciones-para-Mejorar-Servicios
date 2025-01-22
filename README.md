@@ -37,10 +37,4 @@ El proyecto busca responder preguntas clave como:
 - ¿Cuáles son las tendencias históricas de acceso a internet en Argentina?
 - ¿Cómo se relacionan las métricas de conectividad con otras variables socioeconómicas?
 
-## Contribución
-Este proyecto es un ejemplo de cómo integrar análisis de datos y herramientas de visualización para generar valor a partir de información compleja. Puede escalarse y adaptarse a otros contextos o países con necesidades similares.
-
-
-
-
 

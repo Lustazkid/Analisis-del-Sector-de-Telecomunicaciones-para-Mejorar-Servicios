@@ -17,8 +17,7 @@ Para obtener los datos se requirió lectura automatizada de múltiples archivos 
 - **Filtrado:** Exclusión de datos no relevantes para optimizar el análisis.
 
 ### Almacenamiento y Procesamiento
-- Los datos procesados se almacenan en un directorio estructurado con nombres que identifican claramente el estado de los archivos (e.g., "procesado").
-- Uso de Python y librerías como **Pandas** para automatizar y agilizar el manejo de datos.
+Los datos procesados se almacenan en un directorio estructurado con nombres que identifican claramente el estado de los archivos (e.g., "procesado"). Fuè necesario el uso Python y librerías como **Pandas** para automatizar y agilizar el manejo de datos.
 
 ### Visualización en Power BI
 - Creación de tableros interactivos que permiten explorar las principales métricas relacionadas con la conectividad tecnológica:

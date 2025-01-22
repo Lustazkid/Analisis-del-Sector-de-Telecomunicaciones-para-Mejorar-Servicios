@@ -9,9 +9,7 @@ El objetivo principal del proyecto es consolidar, limpiar y analizar datos prove
 El desarrollo del proyecto se divide en las siguientes etapas:
 
 ### Obtención de Datos
-- Lectura automatizada de múltiples archivos **Excel** (`.xlsx`) almacenados en un directorio específico.
-- Exclusión de archivos duplicados o irrelevantes para garantizar la calidad del conjunto de datos.
-- Manejo de excepciones para asegurar un flujo de trabajo robusto y confiable.
+Para obtener los datos se requirió lectura automatizada de múltiples archivos Excel (.xlsx) almacenados en un directorio específico. Tambien era necesaria la exclusión de archivos duplicados o irrelevantes para garantizar la calidad del conjunto de datos y el manejo de excepciones para asegurar un flujo de trabajo robusto y confiable.
 
 ### Exploración y Preparación de Datos (EDA)
 - **Unificación:** Consolidación de datos de múltiples hojas y archivos en un único DataFrame.

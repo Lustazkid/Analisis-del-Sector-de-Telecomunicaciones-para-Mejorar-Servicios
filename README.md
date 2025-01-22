@@ -20,20 +20,10 @@ Para obtener los datos se requirió lectura automatizada de múltiples archivos 
 Los datos procesados se almacenan en un directorio estructurado con nombres que identifican claramente el estado de los archivos (e.g., "procesado"). Fuè necesario el uso Python y librerías como **Pandas** para automatizar y agilizar el manejo de datos.
 
 ### Visualización en Power BI
-- Creación de tableros interactivos que permiten explorar las principales métricas relacionadas con la conectividad tecnológica:
-  - Regiones con mayor y menor penetración tecnológica.
-  - Tendencias en el acceso a internet a lo largo del tiempo.
-  - Relación entre conectividad y variables socioeconómicas.
+En la visualizaciòn ede Power BI tenia que crear tableros interactivos que permiten explorar las principales métricas relacionadas con la conectividad tecnológica, como regiones con mayor y menor penetración tecnológica, tendencias en el acceso a internet a lo largo del tiempo y tambien la relación entre conectividad y variables socioeconómicas.
 
 ## Herramientas y Tecnologías
 - **Python**: Para la preparación, limpieza y procesamiento de datos (librerías como Pandas y NumPy).
 - **Power BI**: Para la creación de visualizaciones interactivas.
 - **Excel**: Como formato principal de entrada y salida de datos.
-
-## Resultados Esperados
-El proyecto busca responder preguntas clave como:
-- ¿Qué regiones tienen mayores brechas en conectividad tecnológica?
-- ¿Cuáles son las tendencias históricas de acceso a internet en Argentina?
-- ¿Cómo se relacionan las métricas de conectividad con otras variables socioeconómicas?
-
 

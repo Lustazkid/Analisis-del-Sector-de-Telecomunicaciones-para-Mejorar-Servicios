@@ -8,21 +8,21 @@ El objetivo principal del proyecto es consolidar, limpiar y analizar datos prove
 ## Metodología
 El desarrollo del proyecto se divide en las siguientes etapas:
 
-### 1. Obtención de Datos
+### Obtención de Datos
 - Lectura automatizada de múltiples archivos **Excel** (`.xlsx`) almacenados en un directorio específico.
 - Exclusión de archivos duplicados o irrelevantes para garantizar la calidad del conjunto de datos.
 - Manejo de excepciones para asegurar un flujo de trabajo robusto y confiable.
 
-### 2. Exploración y Preparación de Datos (EDA)
+### Exploración y Preparación de Datos (EDA)
 - **Unificación:** Consolidación de datos de múltiples hojas y archivos en un único DataFrame.
 - **Transformación:** Conversión de columnas a formatos numéricos y de fecha para garantizar consistencia y calidad.
 - **Filtrado:** Exclusión de datos no relevantes para optimizar el análisis.
 
-### 3. Almacenamiento y Procesamiento
+### Almacenamiento y Procesamiento
 - Los datos procesados se almacenan en un directorio estructurado con nombres que identifican claramente el estado de los archivos (e.g., "procesado").
 - Uso de Python y librerías como **Pandas** para automatizar y agilizar el manejo de datos.
 
-### 4. Visualización en Power BI
+### Visualización en Power BI
 - Creación de tableros interactivos que permiten explorar las principales métricas relacionadas con la conectividad tecnológica:
   - Regiones con mayor y menor penetración tecnológica.
   - Tendencias en el acceso a internet a lo largo del tiempo.
